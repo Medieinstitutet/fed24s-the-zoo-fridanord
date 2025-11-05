@@ -71,7 +71,7 @@ Ha roligt, skratta och lär er massor!
 
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Koden uppfyller i stort sett alla krav för betyget G. Applikationen har en routing-lösning med en översiktssida där användaren kan klicka på djur, mata dem och hantera trasiga bildlänkar. Styling görs med hjälp av Material UI, vilket uppfyller kravet på att använda sig av någon annan teknik än ren CSS. En del mindre förbättringar och refaktoriseringar skulle kunna göras för att förbereda för ett högre betyg, men utifrån den information som presenterats bedömdes inte kraven för betyget VG vara fullt uppfyllda.
+📌 **Motivering:** Koden uppfyller grundläggande krav för målen (router, översiktssida, och djurhantering med korrekt styling).
 
 💡 **Förbättringsförslag:**  
-1. För betyget VG bör context API och reducers användas istället för state för hanteringen av djur. 2. Utvidga koden med subtile animationer vid knapptryck och sidladdningar för en mer smidig användarupplevelse, vilket kan ge en mer professionell känsla på webbplatsen. 3. Vidare, implementera funktionalitet som kan återställa djurens fodringstillstånd vid rätt tidsvillkor när användaren navigerar mellan sidor. 4. Använd gärna en custom hook eller en tjänst för datainhämtning för att strömlinjeforma koden och hantera datahämtning på ett mer skalbart sätt.
+Inkorporera avancerade tekniker för datainhämtning och hantering samt mer dynamiska CSS-tekniker för bättre användarupplevelse.
