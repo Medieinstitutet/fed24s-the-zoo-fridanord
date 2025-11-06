@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: VG**
-📌 **Motivering:** Koden uppfyller alla krav för både betyget G och VG. Det finns korrekt användning av router med layouts och error-element. Djuren visas på en översiktssida och djurens bilder hanteras korrekt om länkarna är trasiga. Det går att mata djuren på djursidan, och detta sparas lokalt. En custom hook eller service används för att hämta data och kontext används istället för props. Reducers hanterar djurens tillstånd, och djurens status presenteras diskret på översiktsidan. Subtila animeringar finns vid klick och ruttförändringar. Koden är generellt välstrukturerad med bra felhantering.
+## 🏆 **Betyg: G**
+📌 **Motivering:** Koden uppfyller alla krav för betyg G. Det finns dock brister i avancerad datahantering och kommunikation som behövs för VG.
 
 💡 **Förbättringsförslag:**  
-Inga större förbättringar behövs. En eventuell förbättring skulle kunna vara att ännu tydligare dokumentera funktionerna och komponenterna för lättare underhåll i framtiden.
+För att nå VG: Implementera custom hooks för datahämtning och använd Context och Reducers för att hantera tillstånd och kommunikation mellan komponenter. Addera fler subtila animeringar för en mer dynamisk användarupplevelse.
