@@ -1,7 +1,6 @@
 # 📌 Rättningsrapport – fed24s-the-zoo-fridanord
 
 ## 🎯 Uppgiftens Krav:
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xBUCHFwF)
 # The Zoo
 
 I denna inlämningsuppgift kommer ni att bygga ett zoo. Zoo:t har ett antal djur som kommer behöva matas. 
@@ -66,12 +65,11 @@ Välj en teknik gällande css som ni antingen vill lära er mer om eller som ni 
 
 Ha roligt, skratta och lär er massor!
 
-
 ## 🔍 ESLint-varningar:
 
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Koden uppfyller alla krav för betyg G. Det finns dock brister i avancerad datahantering och kommunikation som behövs för VG.
+📌 **Motivering:** Koden uppfyller alla grundläggande krav för betyg G och är välstrukturerad med effektiv felhantering. För att nå VG behöver implementation av Context, Reducers och eventuellt en custom hook utföras.
 
 💡 **Förbättringsförslag:**  
-För att nå VG: Implementera custom hooks för datahämtning och använd Context och Reducers för att hantera tillstånd och kommunikation mellan komponenter. Addera fler subtila animeringar för en mer dynamisk användarupplevelse.
+Implementera Context och Reducers för att hantera komponentkommunikation och tillstånd. Utforska användningen av custom hooks för datahämtning och expandera användningen av animeringar för en bättre användarupplevelse.
