@@ -69,7 +69,7 @@ Ha roligt, skratta och lär er massor!
 
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Koden uppfyller alla grundläggande krav för betyg G och är välstrukturerad med effektiv felhantering. För att nå VG behöver implementation av Context, Reducers och eventuellt en custom hook utföras.
+📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyg G. Koden är strukturerad och funktionaliteten implementerar de grundläggande funktionerna som beskrivs i uppgiften. Dock saknas vissa avancerade funktioner och optimeringar som krävs för betyget VG.
 
 💡 **Förbättringsförslag:**  
-Implementera Context och Reducers för att hantera komponentkommunikation och tillstånd. Utforska användningen av custom hooks för datahämtning och expandera användningen av animeringar för en bättre användarupplevelse.
+För att nå betyget VG bör studenten implementera användning av context och reducers för state management, samt lägga till subtila animeringar vid interaktioner och sidladdningar. Dessutom kan prestandaoptimeringar och säkerhetshänsyn förbättras. Det kan också vara fördelaktigt att inkludera mer detaljerade kommentarer för att förbättra kodens läsbarhet och underhållbarhet.
