@@ -69,7 +69,7 @@ Ha roligt, skratta och lär er massor!
 
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyg G. Koden är strukturerad och funktionaliteten implementerar de grundläggande funktionerna som beskrivs i uppgiften. Dock saknas vissa avancerade funktioner och optimeringar som krävs för betyget VG.
+📌 **Motivering:** Projektet uppfyller de grundläggande kraven för betyg G. Koden är välstrukturerad och implementerar de nödvändiga funktionerna för att hantera djurens matningsstatus och navigering mellan sidor. Projektet använder en router för navigering, hanterar trasiga bildlänkar korrekt och använder en stylingteknik utöver ren CSS. För att uppnå VG saknas avancerade funktioner som användning av context och reducers, samt subtila animeringar.
 
 💡 **Förbättringsförslag:**  
-För att nå betyget VG bör studenten implementera användning av context och reducers för state management, samt lägga till subtila animeringar vid interaktioner och sidladdningar. Dessutom kan prestandaoptimeringar och säkerhetshänsyn förbättras. Det kan också vara fördelaktigt att inkludera mer detaljerade kommentarer för att förbättra kodens läsbarhet och underhållbarhet.
+För att nå VG-nivå bör studenten implementera context för komponentkommunikation och använda reducers för hantering av djurens tillstånd. Dessutom bör subtila animeringar läggas till för att förbättra användarupplevelsen. Kodens läsbarhet kan förbättras med fler kommentarer, och felhanteringen kan göras mer användarvänlig, exempelvis genom att ge användaren bättre feedback vid felaktiga bildlänkar.
